@@ -1,4 +1,5 @@
 # Trail-one
 My first repository
 <br>
-Author - Nikhil
+Author - Nikhil katra
+git status
